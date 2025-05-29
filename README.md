@@ -30,7 +30,7 @@
 
 ## Инструкция по запуску
 
-1.  Склонируйте репозиторий: `git clone Codename-Nik/BudgetApp`
+1.  Склонируйте репозиторий: `git clone Codename-Nik/Budget`
 
 2.  Откройте проект в IntelliJ IDEA.
 
